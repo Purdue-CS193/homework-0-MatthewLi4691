@@ -1,4 +1,8 @@
-# Header
+# Matthew Li's First CS193 Homework
+
+- Command line
+- Github
+- Linux
 
 ## Welcome to the Matthew Li Zone
 
